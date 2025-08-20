@@ -1,4 +1,4 @@
-# Go to Domain Root - Chrome Extension
+# One-Click Home - Chrome Extension
 
 A simple and lightweight Chrome extension that allows you to quickly navigate to the root of any domain with a single click.
 
@@ -52,7 +52,7 @@ When you click the extension icon, it:
 ## 📁 File Structure
 
 ```
-f2-home-extension/
+one-click-home/
 ├── manifest.json    # Extension configuration
 ├── background.js    # Main extension logic
 └── README.md       # This file
